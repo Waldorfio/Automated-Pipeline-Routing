@@ -52,16 +52,16 @@ OUTPUTS:
 ## Deployment
 
 ## Built With
-- Python 3
-- Spyder 3
-- Libraries (internal):
+Python 3
+Spyder 3
+Libraries (internal):
 -   datetime
 -   sys
 -   os
 -   math
 -   numpy
 -   matplotlib
-- Libraries (external):
+Libraries (external):
 -   pandas
 -   networkx
 -   tqdm
@@ -73,3 +73,4 @@ OUTPUTS:
 ## Authors
 
 ## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
