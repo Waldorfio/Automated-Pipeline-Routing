@@ -14,6 +14,8 @@
 An automated routing tool capable of laying the **shortest feasible pipeline route**, on a given raster.<br /><br />
 Inspired by Dijkstra's algorithm.<br />
 Built for use across the mining, municipals, and oil & gas industries.
+Additional functionality added using node.js.
+
 
 [Getting started](#getting-started) •
 [Running the tool](#running-the-tool) •
